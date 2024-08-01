@@ -1,0 +1,20 @@
+{
+    "db": {
+      "server": "LAPTOP-7RQTGCIG",
+      "authentication": {
+        "type": "default",
+        "options": {
+          "userName": "sa",
+          "password": "12345678"
+        }
+      },
+      "options": {
+        "database": "hr",
+        "encrypt": false
+      }
+    }
+  }
+  
+
+
+
